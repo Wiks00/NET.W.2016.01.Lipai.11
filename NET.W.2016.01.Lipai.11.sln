@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM", "ORM\ORM.csproj", "{16A3F0D2-747F-476D-82DF-98E2606C1BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{BCB62D3F-F2B3-44EA-8464-04015C78ABFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShawermaUI", "ShawermaUI\ShawermaUI.csproj", "{56E3CD7A-E502-460D-8F48-181C9A322201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A3F0D2-747F-476D-82DF-98E2606C1BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A3F0D2-747F-476D-82DF-98E2606C1BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A3F0D2-747F-476D-82DF-98E2606C1BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A3F0D2-747F-476D-82DF-98E2606C1BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB62D3F-F2B3-44EA-8464-04015C78ABFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB62D3F-F2B3-44EA-8464-04015C78ABFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB62D3F-F2B3-44EA-8464-04015C78ABFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB62D3F-F2B3-44EA-8464-04015C78ABFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E3CD7A-E502-460D-8F48-181C9A322201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E3CD7A-E502-460D-8F48-181C9A322201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E3CD7A-E502-460D-8F48-181C9A322201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E3CD7A-E502-460D-8F48-181C9A322201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
